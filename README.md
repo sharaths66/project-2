@@ -1,2 +1,3 @@
 # project-2
-yh
+
+This is a repository created to test git commands.
